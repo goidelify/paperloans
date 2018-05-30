@@ -1,0 +1,16 @@
+PODS:
+  - DigiMeSDK (2.1.0)
+
+DEPENDENCIES:
+  - DigiMeSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DigiMeSDK
+
+SPEC CHECKSUMS:
+  DigiMeSDK: 3bdd995edf25e0b751d6f6c09c306b51cfab26bd
+
+PODFILE CHECKSUM: ea857504586825adbfcc2d5874be229e1a712293
+
+COCOAPODS: 1.5.3

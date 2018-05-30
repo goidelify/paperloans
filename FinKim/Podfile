@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+use_frameworks!
+target 'FinKim' do
+    
+    pod 'DigiMeSDK'
+    target 'FinKimTests' do
+        inherit! :search_paths
+        # Pods for testing
+    end
+    target 'FinKimUITests' do
+        inherit! :search_paths
+        # Pods for testing
+    end
+end
